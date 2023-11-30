@@ -10,7 +10,7 @@ export ARGO_AUTH=${ARGO_AUTH:-''}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'5dcffe5c-c31f-4d15-a89c-989e6f651811'}
 export CFIP=${CFIP:-'icook.hk'}
-export NAME=${NAME:-''}
+export NAME=${NAME:-'back4app'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
 z="
